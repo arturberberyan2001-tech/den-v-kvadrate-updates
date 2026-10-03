@@ -1,0 +1,11 @@
+{
+  "version": "1.0.20",
+  "notes": "Версия 1.0.20: «Свой художник» с библиотекой картинок и своя нейросеть на Cloudflare\nСвой художник (рисует на устройстве, без интернета и без лимитов):\n- библиотека почти из 700 картинок: около сотни нарисованных вручную и ~580 иконок\n  Tabler Icons (MIT) с русским словарём; одна идея — несколько разных картинок;\n- понимание задачи: слова в любой форме, фразы, слабые глаголы («купить» уступает\n  тому, что покупают), цвет («красное платье»), время суток и сезон, число «2,5 км»;\n- 12 стилей (добавлены неон, бумага, комикс, монохром, ретро, сияние) и 8 композиций:\n  крупно, наклон, сцена с мелочами вокруг, два предмета вместе, трио, узор, полароид;\n- выбор стиля и цвета для всех шести вариантов, каталог по разделам с поиском.\nНейросеть: FLUX на своём бесплатном аккаунте Cloudflare Workers AI. Приложение даёт\nкод сервера со своим ключом, подключение в пять шагов, языковая модель разбирает\nзадачу и придумывает сюжеты; на телефоне запросы идут через CapacitorHttp.\nCSP: вместо Pollinations — https://*.workers.dev. Сервер без ключа приложения\nотвечает всем «нет доступа».",
+  "pub_date": "2026-10-03T19:53:46Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK3pqQ3lPYTNBUFl1R1pVZjNYZlZFM0N0NFg0MUZTWXRkR0trREtWUTlQcE8vNlpjakNsVnc1eXhlRUdzWUh4eEVSa0R4OGwyY1NjbmhjSU5JSHJ6UWhsc1RxM2c4R2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDU3MjA3CWZpbGU60JTQtdC90Ywg0LIg0LrQstCw0LTRgNCw0YLQtV8xLjAuMjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4yMApvTTNzbzE0dWwwK3FLaVFsRGpUK0lNT2RkZlUrNWNINTN2UzFOb1labE55WUFOVlcvbUVNSE1sQkRzRjRhcGx0d01GVnBjMkZEY1AyZ1RUWGVCc2hBdz09Cg==",
+      "url": "https://raw.githubusercontent.com/arturberberyan2001-tech/den-v-kvadrate-updates/main/den-v-kvadrate_1.0.20_x64-setup.exe"
+    }
+  }
+}
