@@ -1,0 +1,11 @@
+{
+  "version": "1.0.26",
+  "notes": "Версия 1.0.26: вкладка «Музыка», волна без конца, обложка в ритм\n- Новая вкладка «Музыка»: «Моя волна», поиск, любимое, плейлисты, радио, свои треки и звуки для фокуса.\n- «Моя волна» больше не обрывается: плеер в шторке не пропадает между треками, трек, который не играет, пропускается, без интернета волна продолжает твоими треками.\n- В волне — музыка независимых артистов из каталога Audius вперемешку с твоими треками. ❤ — ставить чаще и похожее, 🚫 — больше не ставить. Откуда брать музыку, настроение и характер — в настройках волны.\n- Поиск сразу по своим трекам, каталогу и радиостанциям.\n- Любимое и свои плейлисты: добавить трек — ⋯ → «В плейлист». Плейлист можно переименовать, менять в нём порядок, удалить.\n- Живое радио по жанрам: лоу-фай, джаз, классика, эмбиент и другие.\n- Обложка мягко светлеет и тускнеет в ритм музыки — в приложении и в плеере на экране блокировки. Выключить: настройки волны → «Обложка в ритм музыки».\n- В плеере в шторке у трека из каталога — его обложка, у радио нет полосы перемотки.",
+  "pub_date": "2026-10-24T13:44:10Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK3pqQ3lPYTNBUFZkSGwyMVFNclpaRUcvUWltempRSTVjY3RKMUNqVjlmQy8xK1J6bEU2SVhsdjlqZ1V0RFdqLzdPM3d0SGVndjdBNlJuNWlQZ1dubi85cDc2TytJU0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQ5NDA3CWZpbGU60JTQtdC90Ywg0LIg0LrQstCw0LTRgNCw0YLQtV8xLjAuMjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4yNgo2eXdkNXE2amIwbzJWeXhUWmJ6TWRBdDdaUVR3WG53WnZkRFN2WnBHMTVKS2NrRmw1b1VTWXhYQzNUK2x1VU5vV0ViNmlnaGlDWU16L095UTZTVnVDdz09Cg==",
+      "url": "https://raw.githubusercontent.com/arturberberyan2001-tech/den-v-kvadrate-updates/main/den-v-kvadrate_1.0.26_x64-setup.exe"
+    }
+  }
+}
