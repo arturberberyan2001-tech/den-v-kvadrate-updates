@@ -1,0 +1,11 @@
+{
+  "version": "1.0.28",
+  "notes": "Версия 1.0.28: удобство — задачи видны сразу, жесты пальцем, крупнее кнопки и текст\nГлавный экран: компактная шапка, «Фокус дня» и «Скоро» без повторов задач,\nспокойная просрочка, пустой день без лишних карточек.\nТелефон: перетаскивание пальцем в Матрице и Расписании, разовая подсказка\nпро жесты, кнопки от 44 px, текст от 12 px, узкий экран без обрезков.\nПонятность: «Вес задачи» словами, подсказка синтаксиса строки ввода, кольцо\nфокуса показывает всё время с отметкой разминки, подзадачи во всю ширину,\nкарточка первых дней в Статистике, 4-я карточка знакомства, «Как\nпользоваться» в каждом разделе.\nШлифовка: «Фокус и звуки» в Настройках, короткие сводки, один ряд в Целях,\nплеер на компьютере, одна кнопка выхода из примера, значок хранения в шапке\nтелефона только при проблемах.",
+  "pub_date": "2026-10-30T10:20:24Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK3pqQ3lPYTNBUFNwMDJjS21OOWVQcWNQeVhrUGNhYTA0NXVncHNnOHBVcG9xYmNYdnNFb1p2QmN5UVVoQlhvNGNlbkRpdmFaNHhQM0svbDNHYnpYRGZ0aVpubU9LY0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzU1NjA1CWZpbGU60JTQtdC90Ywg0LIg0LrQstCw0LTRgNCw0YLQtV8xLjAuMjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4yOApZRHdqc2xmT3AvcjlGVDRuYURhV1BrYlpDMnBvamxWdmxSdzcxZWVnenBWc1pabVRpeDgyRktwUEFRT1k3OXYyRzhRNjA2Q21CZjVKZWljdlprQ2VEdz09Cg==",
+      "url": "https://raw.githubusercontent.com/arturberberyan2001-tech/den-v-kvadrate-updates/main/den-v-kvadrate_1.0.28_x64-setup.exe"
+    }
+  }
+}
