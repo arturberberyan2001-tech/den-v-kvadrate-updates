@@ -1,0 +1,11 @@
+{
+  "version": "1.0.40",
+  "notes": "Версия 1.0.40: имя автора в копирайте кода и в LICENSE\nЗаглушка «Автор приложения» заменена на имя правообладателя — Артур Берберян —\nв заметке об авторстве вверху кода (она остаётся в сборке после минификации)\nи в файле LICENSE. Так указание прав становится именным и его можно защищать.",
+  "pub_date": "2026-11-04T08:45:34Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK3pqQ3lPYTNBUGUyQ2tTSEVFNnRCYkxxK0ZNRXJ0Y1hYbDNSYUJoK2dwK2R1aUFnRHRPeHFEUi8vS0tHS0Q4Mk80SXBLcmNQcElPTnJSVnZYd0RDWHFIWmhTMHBRNmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzgxOTA5CWZpbGU60JTQtdC90Ywg0LIg0LrQstCw0LTRgNCw0YLQtV8xLjAuNDBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC40MAozSnhqLzdlMVdpaDBHZnFHZlE1MUtLRWdwaHA4Y0lnWE5RcDBiUndJSUdTZ3VhdFNMbUZ0UjFjZGJWb2twRnhKeGZOMEllWHZuR0ZkaHBhS2NZMm5CUT09Cg==",
+      "url": "https://raw.githubusercontent.com/arturberberyan2001-tech/den-v-kvadrate-updates/main/den-v-kvadrate_1.0.40_x64-setup.exe"
+    }
+  }
+}
