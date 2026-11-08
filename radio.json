@@ -1,0 +1,281 @@
+{
+ "_about": "Станции встроенного радио «День в квадрате». Приложения для телефона и Windows раз в час берут этот список из канала обновлений; если его нет — играют встроенный. Поля: id (латиница, цифры, дефис), name, g (жанр: pop, ru, rock, dance, rap, chill, retro, jazz, classical, kids, talk), url (только https).",
+ "stations": [
+  {
+   "id": "ep",
+   "name": "Европа Плюс",
+   "g": "pop",
+   "url": "https://europaplus.hostingradio.ru:8014/ep-new128.mp3"
+  },
+  {
+   "id": "rusradio",
+   "name": "Русское Радио",
+   "g": "pop",
+   "url": "https://rusradio.hostingradio.ru/rusradio128.mp3"
+  },
+  {
+   "id": "hitfm",
+   "name": "Хит FM",
+   "g": "pop",
+   "url": "https://hitfm.hostingradio.ru/hitfm96.aacp"
+  },
+  {
+   "id": "likefm",
+   "name": "Like FM",
+   "g": "pop",
+   "url": "https://gpm.hostingradio.ru/gpm-likefm495.aacp"
+  },
+  {
+   "id": "energy",
+   "name": "Радио ENERGY",
+   "g": "pop",
+   "url": "https://gpm.hostingradio.ru/gpm-energyfm495.aacp"
+  },
+  {
+   "id": "bestfm",
+   "name": "Best FM",
+   "g": "pop",
+   "url": "https://nashe2.hostingradio.ru/best-128.mp3"
+  },
+  {
+   "id": "rusmix",
+   "name": "Record Русский микс",
+   "g": "ru",
+   "url": "https://radiorecord.hostingradio.ru/rus96.aacp"
+  },
+  {
+   "id": "vanya",
+   "name": "Радио Ваня",
+   "g": "ru",
+   "url": "https://icecast-radiovanya.cdnvideo.ru/radiovanya"
+  },
+  {
+   "id": "newradio",
+   "name": "Новое Радио",
+   "g": "ru",
+   "url": "https://icecast-newradio.cdnvideo.ru/newradio3"
+  },
+  {
+   "id": "dorognoe",
+   "name": "Дорожное радио",
+   "g": "ru",
+   "url": "https://dorognoe.hostingradio.ru/dorognoe"
+  },
+  {
+   "id": "rukivverh",
+   "name": "Record Руки Вверх!",
+   "g": "ru",
+   "url": "https://radiorecord.hostingradio.ru/rv96.aacp"
+  },
+  {
+   "id": "romantika",
+   "name": "Радио Romantika",
+   "g": "ru",
+   "url": "https://gpm.hostingradio.ru/gpm-romantika495.aacp"
+  },
+  {
+   "id": "nashe",
+   "name": "Наше Радио",
+   "g": "rock",
+   "url": "https://nashe1.hostingradio.ru/nashe-128.mp3"
+  },
+  {
+   "id": "rockfm",
+   "name": "Rock FM",
+   "g": "rock",
+   "url": "https://nashe1.hostingradio.ru/rock-128.mp3"
+  },
+  {
+   "id": "maximum",
+   "name": "Радио Maximum",
+   "g": "rock",
+   "url": "https://maximum.hostingradio.ru/maximum128.mp3"
+  },
+  {
+   "id": "recrock",
+   "name": "Record Rock",
+   "g": "rock",
+   "url": "https://radiorecord.hostingradio.ru/rock96.aacp"
+  },
+  {
+   "id": "record",
+   "name": "Record",
+   "g": "dance",
+   "url": "https://radiorecord.hostingradio.ru/rr_main96.aacp"
+  },
+  {
+   "id": "dfm",
+   "name": "DFM",
+   "g": "dance",
+   "url": "https://dfm.hostingradio.ru/dfm96.aacp"
+  },
+  {
+   "id": "rectm",
+   "name": "Record Trancemission",
+   "g": "dance",
+   "url": "https://radiorecord.hostingradio.ru/tm96.aacp"
+  },
+  {
+   "id": "rectechno",
+   "name": "Record Techno",
+   "g": "dance",
+   "url": "https://radiorecord.hostingradio.ru/techno96.aacp"
+  },
+  {
+   "id": "sd90",
+   "name": "Record Супердискотека 90-х",
+   "g": "dance",
+   "url": "https://radiorecord.hostingradio.ru/sd9096.aacp"
+  },
+  {
+   "id": "recrap",
+   "name": "Record Rap Hits",
+   "g": "rap",
+   "url": "https://radiorecord.hostingradio.ru/rap96.aacp"
+  },
+  {
+   "id": "recphonk",
+   "name": "Record Phonk",
+   "g": "rap",
+   "url": "https://radiorecord.hostingradio.ru/phonk96.aacp"
+  },
+  {
+   "id": "recchill",
+   "name": "Record Chill-Out",
+   "g": "chill",
+   "url": "https://radiorecord.hostingradio.ru/chil96.aacp"
+  },
+  {
+   "id": "reclofi",
+   "name": "Record Lo-Fi",
+   "g": "chill",
+   "url": "https://radiorecord.hostingradio.ru/lofi96.aacp"
+  },
+  {
+   "id": "recambient",
+   "name": "Record Ambient",
+   "g": "chill",
+   "url": "https://radiorecord.hostingradio.ru/ambient96.aacp"
+  },
+  {
+   "id": "recsynth",
+   "name": "Record Synthwave",
+   "g": "chill",
+   "url": "https://radiorecord.hostingradio.ru/synth96.aacp"
+  },
+  {
+   "id": "relax",
+   "name": "Relax FM",
+   "g": "chill",
+   "url": "https://gpm.hostingradio.ru/gpm-relaxfm495.aacp"
+  },
+  {
+   "id": "retrofm",
+   "name": "Ретро FM",
+   "g": "retro",
+   "url": "https://retro.hostingradio.ru:8043/retro256.mp3"
+  },
+  {
+   "id": "montecarlo",
+   "name": "Монте-Карло",
+   "g": "retro",
+   "url": "https://montecarlo.hostingradio.ru/montecarlo128.mp3"
+  },
+  {
+   "id": "recgold",
+   "name": "Record Russian Gold",
+   "g": "retro",
+   "url": "https://radiorecord.hostingradio.ru/russiangold96.aacp"
+  },
+  {
+   "id": "jazz",
+   "name": "Радио Jazz",
+   "g": "jazz",
+   "url": "https://nashe1.hostingradio.ru/jazz-128.mp3"
+  },
+  {
+   "id": "jazzinstr",
+   "name": "Jazz · Инструментал",
+   "g": "jazz",
+   "url": "https://jfm1.hostingradio.ru:14536/ijstream.mp3"
+  },
+  {
+   "id": "jazzsmooth",
+   "name": "Jazz · Smooth",
+   "g": "jazz",
+   "url": "https://jfm1.hostingradio.ru:14536/sjstream.mp3"
+  },
+  {
+   "id": "jazzvocal",
+   "name": "Jazz · Вокал",
+   "g": "jazz",
+   "url": "https://jfm1.hostingradio.ru:14536/jvstream.mp3"
+  },
+  {
+   "id": "orfey",
+   "name": "Радио Орфей",
+   "g": "classical",
+   "url": "https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3"
+  },
+  {
+   "id": "recsymph",
+   "name": "Record Симфония FM",
+   "g": "classical",
+   "url": "https://radiorecord.hostingradio.ru/symph96.aacp"
+  },
+  {
+   "id": "kultura",
+   "name": "Радио Культура",
+   "g": "classical",
+   "url": "https://icecast-vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps"
+  },
+  {
+   "id": "deti",
+   "name": "Детское радио",
+   "g": "kids",
+   "url": "https://gpm.hostingradio.ru/gpm-detifm495.aacp"
+  },
+  {
+   "id": "recdeti",
+   "name": "Record Веснушка FM",
+   "g": "kids",
+   "url": "https://radiorecord.hostingradio.ru/deti96.aacp"
+  },
+  {
+   "id": "vesti",
+   "name": "Вести FM",
+   "g": "talk",
+   "url": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_128kbps"
+  },
+  {
+   "id": "mayak",
+   "name": "Радио Маяк",
+   "g": "talk",
+   "url": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps"
+  },
+  {
+   "id": "sputnik",
+   "name": "Радио Sputnik",
+   "g": "talk",
+   "url": "https://icecast-rian.cdnvideo.ru/voicerus"
+  },
+  {
+   "id": "kommersant",
+   "name": "Коммерсантъ FM",
+   "g": "talk",
+   "url": "https://kommersant77.hostingradio.ru:8085/kommersant128.mp3"
+  },
+  {
+   "id": "avtoradio",
+   "name": "Авторадио",
+   "g": "talk",
+   "url": "https://gpm.hostingradio.ru/gpm-avtoradio495.aacp"
+  },
+  {
+   "id": "comedy",
+   "name": "Comedy Radio",
+   "g": "talk",
+   "url": "https://gpm.hostingradio.ru/gpm-humorfm495.aacp"
+  }
+ ]
+}
